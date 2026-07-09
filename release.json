@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "1e3a54af0c2a025ed3982639cb465df56a795d27ff01b65285054ea5191977f7",
+  "generatedAtUtc": "2026-07-09T22:02:07.7421791Z",
+  "mode": "dist",
+  "appDisplayName": "maui",
+  "bundleId": "com.prodyum.maui",
+  "version": "1.0.0",
+  "buildNumber": "1",
+  "ipaFileName": "maui-install.ipa",
+  "ipaSha256": "f1d4ce3b62a7bf279da8b242a399fe3292146bebc601a62ac964c260d18b9d9e",
+  "manifestSha256": "6d4cfea289b9f1a65e581925bfc9d3e73a2ff21d9ed2a91f9309f06d5a291d62",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29052827176",
+  "pagesUrl": "https://prodyum.github.io/maui-installer/",
+  "manifestUrl": "https://prodyum.github.io/maui-installer/manifest.plist",
+  "ipaUrl": "https://prodyum.github.io/maui-installer/ipa/maui-install.ipa"
+}
