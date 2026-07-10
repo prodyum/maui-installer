@@ -1,17 +1,22 @@
 {
   "schemaVersion": 1,
-  "releaseId": "1e3a54af0c2a025ed3982639cb465df56a795d27ff01b65285054ea5191977f7",
-  "generatedAtUtc": "2026-07-09T22:02:07.7421791Z",
+  "releaseId": "387778314aadac2cf5b53accd02d3c10a0619db5aeda9ee9303baa7a45f949e1",
+  "generatedAtUtc": "2026-07-10T00:04:21.4917942Z",
   "mode": "dist",
   "appDisplayName": "maui",
   "bundleId": "com.prodyum.maui",
   "version": "1.0.0",
   "buildNumber": "1",
   "ipaFileName": "maui-install.ipa",
-  "ipaSha256": "f1d4ce3b62a7bf279da8b242a399fe3292146bebc601a62ac964c260d18b9d9e",
+  "ipaSha256": "5dbafce51bff01dc2de79be1f8b7de913ba2b9782664b9d05fb749edeb8cd6fa",
   "manifestSha256": "6d4cfea289b9f1a65e581925bfc9d3e73a2ff21d9ed2a91f9309f06d5a291d62",
-  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29052827176",
+  "workflowRun": "https://github.com/prodyum/one-lane/actions/runs/29058708261",
   "pagesUrl": "https://prodyum.github.io/maui-installer/",
   "manifestUrl": "https://prodyum.github.io/maui-installer/manifest.plist",
-  "ipaUrl": "https://prodyum.github.io/maui-installer/ipa/maui-install.ipa"
+  "ipaUrl": "https://prodyum.github.io/maui-installer/ipa/maui-install.ipa",
+  "commitSha": "d094afa4edc17405983b2013be9aea3b029f725d",
+  "sourceFingerprint": "33524fa0848ea959a49a372dd788e54530cd6d8beb406d86b44ddad77865e732",
+  "cacheSchemaVersion": "1",
+  "deviceHash": "75cf38476b465ffbd9a8d843a58c137e7ae80e063494373fbeb18f5cf8154bc0",
+  "artifactMetadataFile": "maui-install.metadata.json"
 }
